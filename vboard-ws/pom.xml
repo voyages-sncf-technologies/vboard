@@ -26,7 +26,7 @@
         <java.version>1.8</java.version>
         <springboot.version>1.5.22.RELEASE</springboot.version>
         <commons-collections.version>3.2.2</commons-collections.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <mockito.version>1.10.19</mockito.version>
         <restassured.version>2.4.1</restassured.version>
